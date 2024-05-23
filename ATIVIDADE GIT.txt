@@ -1,0 +1,4 @@
+alturacasa = 700
+latiude = 15
+resultado = alturacasa+latitude
+print(resultado)
